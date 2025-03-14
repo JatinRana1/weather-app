@@ -1,8 +1,16 @@
-# React + Vite
+# Simple Weather App
+## HOW TO START PROJECT
+### STEP 1: Clone repo 
+```
+git clone https://github.com/JatinRana1/weather-app.git 
+cd weather-app
+```
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### STEP 2: To Start the project
+``` 
+npm i
+npm run dev
+```
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Do let me know if there are any bugs.
+contact me on ```jatinrana120@gmail.com```
